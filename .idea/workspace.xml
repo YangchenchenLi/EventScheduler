@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="020774f9-9238-4227-a761-7cf8546f4832" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/infs_7202/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Zn3AiAU3yKKSO709e3tEx1RS2D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="020774f9-9238-4227-a761-7cf8546f4832" name="Default Changelist" comment="" />
+      <created>1585460888215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585460888215</updated>
+      <workItem from="1585460890150" duration="214000" />
+      <workItem from="1585461252067" duration="16000" />
+      <workItem from="1585461459646" duration="501000" />
+      <workItem from="1585465307067" duration="235000" />
+      <workItem from="1585465623649" duration="1299000" />
+      <workItem from="1585467607737" duration="1340000" />
+      <workItem from="1585474020091" duration="2818000" />
+      <workItem from="1585545448359" duration="5283000" />
+      <workItem from="1585818865513" duration="2835000" />
+      <workItem from="1585871019630" duration="132000" />
+      <workItem from="1585876866205" duration="260000" />
+      <workItem from="1585877694707" duration="2967000" />
+      <workItem from="1585887717936" duration="8524000" />
+      <workItem from="1586064537249" duration="10383000" />
+      <workItem from="1586135833360" duration="347000" />
+      <workItem from="1586752614651" duration="10493000" />
+      <workItem from="1586821863466" duration="11694000" />
+      <workItem from="1586929971418" duration="8830000" />
+      <workItem from="1586996272555" duration="6716000" />
+      <workItem from="1587080672456" duration="4083000" />
+      <workItem from="1587101742092" duration="411000" />
+      <workItem from="1587114622829" duration="1441000" />
+      <workItem from="1587169614610" duration="3920000" />
+      <workItem from="1587383896334" duration="46000" />
+      <workItem from="1587386565278" duration="1265000" />
+      <workItem from="1587600898566" duration="1978000" />
+      <workItem from="1587604292262" duration="19615000" />
+      <workItem from="1587683526629" duration="22103000" />
+      <workItem from="1587718761374" duration="6485000" />
+      <workItem from="1587769804797" duration="174000" />
+      <workItem from="1587770731541" duration="8745000" />
+      <workItem from="1587785065028" duration="6791000" />
+      <workItem from="1587793720462" duration="854000" />
+      <workItem from="1587795871435" duration="3042000" />
+      <workItem from="1587808856036" duration="539000" />
+      <workItem from="1587890827822" duration="5429000" />
+      <workItem from="1587946978512" duration="647000" />
+      <workItem from="1587947737414" duration="18908000" />
+      <workItem from="1588034062852" duration="16231000" />
+      <workItem from="1588117081878" duration="21626000" />
+      <workItem from="1588203273846" duration="17728000" />
+      <workItem from="1588310480991" duration="75000" />
+      <workItem from="1588739645429" duration="2726000" />
+      <workItem from="1588809010025" duration="8752000" />
+      <workItem from="1588895820771" duration="12929000" />
+      <workItem from="1589542851752" duration="319000" />
+      <workItem from="1589614354810" duration="3428000" />
+      <workItem from="1589758557790" duration="275000" />
+      <workItem from="1589774012192" duration="87000" />
+      <workItem from="1589782448230" duration="15073000" />
+      <workItem from="1589881763652" duration="2915000" />
+      <workItem from="1590021233916" duration="16523000" />
+      <workItem from="1590104164219" duration="15861000" />
+      <workItem from="1590475655748" duration="91000" />
+      <workItem from="1590476261096" duration="9661000" />
+      <workItem from="1590498956870" duration="45000" />
+      <workItem from="1590622324634" duration="261000" />
+      <workItem from="1590622716422" duration="3139000" />
+      <workItem from="1590628417156" duration="190000" />
+      <workItem from="1590628624702" duration="3172000" />
+      <workItem from="1590637778177" duration="554000" />
+      <workItem from="1592865930012" duration="45000" />
+      <workItem from="1593581818412" duration="37000" />
+      <workItem from="1593581863362" duration="5000" />
+      <workItem from="1598941766126" duration="13000" />
+      <workItem from="1598941994259" duration="16000" />
+      <workItem from="1598942053988" duration="473000" />
+      <workItem from="1602509023159" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="296" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1602509024779">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="296" y="246" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1602509024779" />
+  </component>
+</project>
