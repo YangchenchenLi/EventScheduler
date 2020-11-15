@@ -11,11 +11,11 @@ This Event Scheduler website is created with Codeigniter, Bootstrap and MySQL.
 ## General info 
 This web project aims to use PHP to create a dynamic website, with the consideration of the data encryption. 
 
-Users are able to sign up with their email address, with a confirmantion email send to their email address, and they can login correct username, email and password. Considering the user pricacy, users have to confirm their email address first in order to login the website, and all the passwords are encrypted with hash function and stored in the MySQL database.
+Users are able to sign up with their email address, with a confirmantion email send to their email address, and they can log in with correct username, email and password. Considering the user pricacy, users have to confirm their email address first in order to login the website, and all the passwords are encrypted with hash function and are stored in the MySQL database.
 
-In this website, users can add events on the calendar, remove it and search them dynamically. 
+In this website, users can add events on the calendar, remove and search them dynamically. 
 
-Users are also able to upload update their profile details, change profile images and upload multiple images to generate their own gallery. 
+Users are able to update their profile details, including profile images and upload multiple images to generate their own gallery. 
 
 Event Scheduler also supports online payment with Stripe to join the website membership. 
 ## Features
@@ -65,7 +65,7 @@ Event Scheduler also supports online payment with Stripe to join the website mem
 - [Bootstrap](https://getbootstrap.com/) - Extensive list of components and Bundled Javascript plugins. 
 
 ## Status
-This project was developed for one of my university courses. It finised to meet the course requirment, but is still _in progress_. 
+This project was developed for one of my university courses. It finised to meet the course requirment, but is still _in progress_ now. 
 ## Contact 
 Created by [Yangchenchen Li](https://github.com/YangchenchenLi) - feel free to contact me!
 
