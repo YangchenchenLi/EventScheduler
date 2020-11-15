@@ -1,5 +1,5 @@
 # Event Scheduler
-This Event Scheduler website is created with Codeigniter, Bootstrap and MySQL.
+> This Event Scheduler website is created with Codeigniter, Bootstrap and MySQL.
 
 ## Table of Contents
 * [General info](#general-into)
